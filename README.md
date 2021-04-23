@@ -1,4 +1,4 @@
-# my-site-for-companies Demostration
+# my-site-for-companies
 This project is my web site.
 It's so simple.
 
